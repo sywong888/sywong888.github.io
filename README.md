@@ -1,5 +1,7 @@
 # **Welcome to Sydney Wong's Page**
 
+![headshot.jpg](images/headshot.jpg)
+
 ## ***Bio***
 
 Hello all! My name is Sydney, and I am a second-year computer science major at University of California, San Diego.
@@ -26,6 +28,9 @@ I played tennis in high school, and I still love to play with my friends today. 
 2. Bjorn Borg
 3. Martina Navratilova
 4. ~~Rafael Nadal~~
+
+![rf.JPG](images/rf.JPG)
+[link to Roger Federer image](images/rf.JPG)
 
 ## Website Improvements Checklist
 - [x] add headshot
