@@ -8,23 +8,24 @@ I am highly interested in pursuing a career in software development. You can fin
 
 ## ***Interests***
 
-## ***Reading*** :books:
+###### ***Reading*** :books:
 
 I love to read in my free time! Some of my favorite books are:
-- *Beartown* by Fredrik Backman
+- *[Beartown](https://www.amazon.com/Beartown-Novel-Fredrik-Backman/dp/1501160761)* by Fredrik Backman
 - *11/22/63* by Stephen King
 - *Jellicoe Road* by Melina Marchetta
 
 ***One of my favorite quotes from _Jellicoe Road_***:
 > If I want more, I need to go and get it, demand it, take hold of it with all my might, and do the best I can with it.
 
-## ***Tennis***
+###### ***Tennis*** :tennis:
 
 I played tennis in high school, and I still love to play with my friends today. My favorite tennis players (ranked) are:
 
 1. Roger Federer
 2. Bjorn Borg
 3. Martina Navratilova
+4. ~~Rafael Nadal~~
 
 ## Website Improvements Checklist
 - [x] add headshot
