@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# **Welcome to Sydney Wong's Page**
 
-You can use the [editor on GitHub](https://github.com/sywong888/sywong888.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## ***Bio***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello all! My name is Sydney, and I am a second-year computer science major at University of California, San Diego.
 
-### Markdown
+I am highly interested in pursuing a career in software development. You can find my resume [here](https://drive.google.com/file/d/1BpnG5C7_7QAoL8954PnyX6tcK1RgSCBy/view?usp=sharing).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ***Interests***
 
-```markdown
-Syntax highlighted code block
+## ***Reading*** :books:
 
-# Header 1
-## Header 2
-### Header 3
+I love to read in my free time! Some of my favorite books are:
+- *Beartown* by Fredrik Backman
+- *11/22/63* by Stephen King
+- *Jellicoe Road* by Melina Marchetta
 
-- Bulleted
-- List
+***One of my favorite quotes from _Jellicoe Road_***:
+> If I want more, I need to go and get it, demand it, take hold of it with all my might, and do the best I can with it.
 
-1. Numbered
-2. List
+## ***Tennis***
 
-**Bold** and _Italic_ and `Code` text
+I played tennis in high school, and I still love to play with my friends today. My favorite tennis players (ranked) are:
 
-[Link](url) and ![Image](src)
+1. Roger Federer
+2. Bjorn Borg
+3. Martina Navratilova
+
+## Website Improvements Checklist
+- [x] add headshot
+- [x] link resume
+- [ ] create a custom domain
+- [ ] changing some of the formatting
+
+## Lab 1 Takeaways
+
+I used these Git commands in the terminal:
+```
+git clone
+git branch
+git checkout
+git add
+git commit
+git push
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I also reviewed the following information about:
+1. VSCode
+   - has many features
+     - VSCode extensions
+     - VSCode source control UI
 
-### Jekyll Themes
+@sydneywong What improvements should be made to this user page? Also, please look at the branch \*add-read-me\*.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sywong888/sywong888.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
