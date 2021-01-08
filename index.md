@@ -10,8 +10,8 @@ I am highly interested in pursuing a career in software development. You can fin
 
 ## ***Interests***
 
-[section link to Reading](https://github.com/sywong888/sywong888.github.io#reading-books)  
-[section link to Tennis](https://github.com/sywong888/sywong888.github.io#tennis-tennis)
+[section link to Reading](https://github.com/sywong888/sywong888.github.io/blob/main/index.md#reading-books)  
+[section link to Tennis](https://github.com/sywong888/sywong888.github.io/blob/main/index.md#tennis-tennis)
 
 ###### ***Reading*** :books:
 
