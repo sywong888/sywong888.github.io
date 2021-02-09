@@ -1,0 +1,14 @@
+on:
+  pull_request:
+    types: [opened]
+    branches:
+      - master
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 5monkeys/cobertura-action@master
+        with:
+          path: src/test.xml
+          repo_token: ${{ secrets.TEST }}
+          minimum_coverage: 75
