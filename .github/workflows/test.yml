@@ -10,5 +10,5 @@ jobs:
       - uses: 5monkeys/cobertura-action@master
         with:
           path: src/test.xml
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          repo_token: ${{ secrets.TEST }}
           minimum_coverage: 75
