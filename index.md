@@ -69,4 +69,3 @@ See more at my [README file](README.md).
 @sydneywong What improvements should be made to this user page? Also, please look at the branch \*add-read-me\*.
 
 This is a line I am testing
-
