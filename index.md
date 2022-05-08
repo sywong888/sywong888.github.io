@@ -4,7 +4,7 @@
 
 ## ***Bio***
 
-Hello all! My name is Sydney, and I am a second-year computer science major at University of California, San Diego.
+Hello all! My name is Sydney, and I am a third-year computer science major at University of California, San Diego.
 
 I am highly interested in pursuing a career in software development. You can find my resume [here](https://drive.google.com/file/d/1BpnG5C7_7QAoL8954PnyX6tcK1RgSCBy/view?usp=sharing).
 
